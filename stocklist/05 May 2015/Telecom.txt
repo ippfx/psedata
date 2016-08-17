@@ -1,4 +1,0 @@
-GLO
-LIB
-PTT
-TEL

@@ -1,6 +1,0 @@
-APC
-ECP
-PAX
-PHA
-PHC
-SBS
